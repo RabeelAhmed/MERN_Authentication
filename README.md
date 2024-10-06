@@ -8,7 +8,6 @@ This project is a robust **authentication application** built using the **MERN s
 - **Express.js**: A minimal web framework for Node.js, facilitating API development.
 - **React.js**: A popular JavaScript library for building dynamic user interfaces.
 - **Node.js**: A JavaScript runtime built on Chrome's V8 engine for server-side development.
-- **JWT (JSON Web Tokens)**: For secure user authentication.
 - **bcrypt**: A library for hashing passwords to enhance security.
 - **dotenv**: For managing environment variables easily.
 
