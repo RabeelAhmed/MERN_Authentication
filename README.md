@@ -14,7 +14,6 @@ This project is a robust **authentication application** built using the **MERN s
 ## 🌟 Features
 - **User Registration**: Easily create an account with email and password.
 - **Secure Login**: Authenticate users with JWT and hashed passwords.
-- **Profile Management**: Users can view and update their profiles.
 - **Responsive Design**: Access the application on various devices seamlessly.
 
 ## Contact
